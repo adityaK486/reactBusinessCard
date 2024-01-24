@@ -1,0 +1,22 @@
+.card{
+    border-radius: 30px;
+    background-color: whitesmoke;
+    border: solid 1px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+}
+
+.links{
+    display: flex;
+    gap:20px
+}
+
+button{
+    padding: 20px 50px;
+    font-size: 18px;
+    font-weight: 900;
+    border-radius: 10px;
+    border: solid 0.5px ;
+    background-color: rgb(45, 45, 238);
+    color: white;
+}
