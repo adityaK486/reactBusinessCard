@@ -5,7 +5,7 @@ function App() {
 
   const info = {
     name:"Lokeshwar",
-    desc:"A TA in 100xDevs Cohort2.0",
+    desc:"Event-Planer and Marketing manager",
     interest:["Ionic","OPen Source","App Dev"],
     linkedIn:"www.linkedIn.com",
     twitter:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
